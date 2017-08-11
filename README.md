@@ -1,2 +1,3 @@
 # jogoVelhaCSharp
 Jogo da velha feito com C#
+O jogo não possue inteligencia artificial...
