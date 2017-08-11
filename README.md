@@ -1,3 +1,3 @@
-# jogoVelhaCSharp
+# jogo Velha C Sharp
 Jogo da velha feito com C#
 O jogo não possue inteligencia artificial...
